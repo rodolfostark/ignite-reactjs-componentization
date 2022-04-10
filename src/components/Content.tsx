@@ -34,7 +34,6 @@ export function Content({ selectedGenreId, selectedGenre }: ContentProps) {
     });
   }, [selectedGenreId]);
   
-  // Complete aqui
   return (
     <div className="container">
       <header>
